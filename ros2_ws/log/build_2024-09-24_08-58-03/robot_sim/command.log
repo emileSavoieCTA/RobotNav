@@ -1,0 +1,6 @@
+Invoking command in '/home/cta/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/cta/ros2_ws/src/robot_sim -DCMAKE_INSTALL_PREFIX=/home/cta/ros2_ws/install/robot_sim
+Invoked command in '/home/cta/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/cta/ros2_ws/src/robot_sim -DCMAKE_INSTALL_PREFIX=/home/cta/ros2_ws/install/robot_sim
+Invoking command in '/home/cta/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_sim -- -j20 -l20
+Invoked command in '/home/cta/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_sim -- -j20 -l20
+Invoking command in '/home/cta/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cta/ros2_ws/build/robot_sim
+Invoked command in '/home/cta/ros2_ws/build/robot_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cta/ros2_ws/build/robot_sim

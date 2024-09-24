@@ -1,0 +1,19 @@
+[0.045s] Invoking command in '/home/cta/ros2_ws/build/robot_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_sim -- -j20 -l20
+[0.101s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.273s] -- Configuring done
+[1.274s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[1.275s]   Cannot find source file:
+[1.275s] 
+[1.275s]     lidar_node.cpp
+[1.275s] 
+[1.275s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[1.275s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[1.275s] 
+[1.275s] [0m
+[1.275s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[1.276s]   No SOURCES given to target: lidar_node
+[1.276s] 
+[1.276s] [0m
+[1.276s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[1.281s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[1.285s] Invoked command in '/home/cta/ros2_ws/build/robot_sim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_sim -- -j20 -l20

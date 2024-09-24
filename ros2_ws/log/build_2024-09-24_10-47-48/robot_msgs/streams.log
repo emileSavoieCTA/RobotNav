@@ -1,0 +1,20 @@
+[0.059s] Invoking command in '/home/cta/ros2_ws/build/robot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_msgs -- -j20 -l20
+[0.186s] Invoked command in '/home/cta/ros2_ws/build/robot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cta/ros2_ws/build/robot_msgs -- -j20 -l20
+[0.294s] Invoking command in '/home/cta/ros2_ws/build/robot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cta/ros2_ws/build/robot_msgs
+[0.322s] -- Install configuration: ""
+[0.323s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/ament_index/resource_index/package_run_dependencies/robot_msgs
+[0.323s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/ament_index/resource_index/parent_prefix_path/robot_msgs
+[0.324s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/environment/ament_prefix_path.sh
+[0.324s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/environment/ament_prefix_path.dsv
+[0.325s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/environment/path.sh
+[0.325s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/environment/path.dsv
+[0.325s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/local_setup.bash
+[0.326s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/local_setup.sh
+[0.328s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/local_setup.zsh
+[0.328s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/local_setup.dsv
+[0.329s] -- Installing: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/package.dsv
+[0.329s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/ament_index/resource_index/packages/robot_msgs
+[0.329s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/cmake/robot_msgsConfig.cmake
+[0.330s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/cmake/robot_msgsConfig-version.cmake
+[0.330s] -- Up-to-date: /home/cta/ros2_ws/install/robot_msgs/share/robot_msgs/package.xml
+[0.340s] Invoked command in '/home/cta/ros2_ws/build/robot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cta/ros2_ws/build/robot_msgs
