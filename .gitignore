@@ -2,6 +2,8 @@
 build
 install
 log
+/ros2_ws/log/
+
 
 # Python-related ignores
 .Python
