@@ -59,7 +59,7 @@ def generate_launch_description():
             # '/world/empty/model/robot/joint_state@sensor_msgs/msg/JointState@ignition.msgs.Model',
             # '/model/robot/odometry@nav_msgs/msg/Odometry@ignition.msgs.Odometry',
             # '/world/empty/model/robot/tf@tf2_msgs/msg/TFMessage@ignition.msgs.Pose_V',
-            'robot/scan@sensor_msgs/msg/LaserScan@ignition.msgs.LaserScan'
+            'robot/scan/points@sensor_msgs/msg/LaserScan@gz.msgs.LaserScan'
         ],
         output='screen'
     )
